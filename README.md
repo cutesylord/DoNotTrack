@@ -1,3 +1,3 @@
-# DoNotTrack - [Download](https://betterdiscord.app/Download?id=186)
+# DoNotTrack - [Download](https://raw.githubusercontent.com/cutesylord/DoNotTrack/main/DoNotTrack.plugin.js)
 
 Stops Discord from tracking everything you do like Sentry and Analytics.
